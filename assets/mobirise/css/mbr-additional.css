@@ -1117,6 +1117,10 @@ section.lazy-placeholder:after {
     -webkit-flex-shrink: 0;
   }
 }
+.cid-rZlUMl9T0A {
+  background-image: url("../../../assets/images/video.gif");
+}
+
 .cid-rZlUMl9T0A .navbar-collapse {
   flex-basis: auto;
   -webkit-flex-basis: auto;
